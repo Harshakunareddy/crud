@@ -4,7 +4,6 @@ This is a simple **Movies CRUD** built using:
 - **Sequelize ORM** for database operations
 - **PostgreSQL (Render Cloud)** as the database
 - **Joi** for validation
-- **EJS** for frontend view rendering
 
 ---
 
